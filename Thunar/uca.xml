@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>kitty</icon>
+	<name>Apri un terminale qui</name>
+	<submenu></submenu>
+	<unique-id>1713100383937245-1</unique-id>
+	<command>/usr/bin/kitty %f</command>
+	<description>Esempio di azione personalizzata</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+</actions>
